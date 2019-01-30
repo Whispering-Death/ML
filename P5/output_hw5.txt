@@ -1,0 +1,3 @@
+[HMM score]:2.5
+[PCA score]:2.5
+[Total]:5.0
